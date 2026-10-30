@@ -34,7 +34,7 @@ This will teach you how to set up and use the Trossen Robotics / Interbotix Reac
 ### Software
 - Ubuntu 22.04 with ROS 2 Humble. The install script below installs ROS 2 for you
 - Native Ubuntu is recommended but WSL2 on windows also works but will need an extra step to pass the USB device through
-- macOS unfortunately is not supported for running the arm directly so users are recommended to use a CAEN computer with WSL2
+- MacOS cannot run this natively, so a virtual machine such as VirtualBox is recommended for use
 
 ## Install the Interbotix packages
  
